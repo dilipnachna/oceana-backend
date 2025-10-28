@@ -1,2 +1,5 @@
-# oceana-backend
-Backend API for OceanaGPT — powered by Flask (Render deploy ready)
+# Oceana Backend
+
+Simple Flask API for OceanaGPT.
+
+## Run locally
